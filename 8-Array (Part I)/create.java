@@ -1,13 +1,11 @@
-// package 8-Array (Part I);    
 import java.util.*;
 
 public class create {
     public static void main(String[] args) {
-        int marks[] =  new int[50];
+        int marks[] = new int[50];
         
-        int numbers[] = {1,2,3}
+        int numbers[] = {1, 2, 3};  // Added semicolon
 
-        String fruits[] = {"apple", "mango", "chikkkii"}
+        String fruits[] = {"apple", "mango", "chikkkii"};  // Added semicolon
     }
-    
 }
