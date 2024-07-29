@@ -1,2 +1,3 @@
 # GitJava
-Learning Java!
+Author - Himanshu
+Description - Learning Java!
