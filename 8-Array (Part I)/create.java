@@ -6,6 +6,6 @@ public class create {
         
         int numbers[] = {1, 2, 3};  // Added semicolon
 
-        String fruits[] = {"apple", "mango", "chikkkii"};  // Added semicolon
+        String fruits[] = {"apple", "mango", "chikkki"};  // Added semicolon
     }
 }
