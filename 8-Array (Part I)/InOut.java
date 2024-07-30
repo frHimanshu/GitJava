@@ -11,8 +11,11 @@ public class InOut {
         marks[1] = sc.nextInt();
         marks[2] = sc.nextInt();
 
+        marks[2] = marks[2] + 1;
+
         System.out.println("Phy: " + marks[0]);
         System.out.println("Chem: " + marks[1]);
         System.out.println("Maths: " + marks[2]);
+        System.out.println("Length of array = " + marks.length);
     }
 }
