@@ -21,6 +21,6 @@ public class LargestNumbers {
 
     public static void main(String[] args) {
         int[] numbers = {1, 2, 3, 7, 5}; // Initialize the array
-        System.out.println("Largest Value: " + getLargest(numbers)); // Print the largest value
+        System.out.println("Largest Value: " + getLargest(numbers)); // Print the largest Value
     }
 }
