@@ -1,5 +1,3 @@
 # GitJava
 Author - Himanshu <br>
-Description - Learning Java!
-
-description dihywfuoh 
+Description - Learning Java 
